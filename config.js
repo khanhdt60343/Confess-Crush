@@ -1,20 +1,18 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "2K MARKETING",
+    introTitle: 'HAPPY NEW YEAR',
+    introDesc: `Chúc các em một năm mới
+    tràn đầy hạnh phúc và yêu thương`,
+    btnIntro: 'Nhận quà',
+    title: 'Các em có muốn được tăng lương gấp đôi không?',
+    desc: 'Quà Tết 2022 đấy',
+    btnYes: 'Không nha!',
+    btnNo: 'Thích lắm <3',
+    question: 'Anh thực sự không ngờ. Các em quá cống hiến. Quá tuyệt vời',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'Em làm vì đam mê mà, sếp thích thì em dắt đi ăn tẹt ga nhé <33333333',
+    mess: 'Quá tuyệt vời 🥰',
+    messDesc: 'Lát làm xong triển luôn nha 😘😘',
+    btnAccept: 'Okiiiii luôn <3',
+    messLink: 'https://m.me/khanhdt60342'
 }
